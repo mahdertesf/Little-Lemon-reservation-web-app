@@ -145,3 +145,9 @@ REST_FRAMEWORK={
     ],
     
 }
+
+
+DJOSER={
+    'USER_ID_FIELD':'email',
+    
+}
