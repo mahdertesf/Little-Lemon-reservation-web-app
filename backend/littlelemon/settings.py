@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'restaurant',
     'rest_framework',
     'corsheaders',
+    'djoser',
 ]
 
 CORS_ALLOWED_ORIGINS = [
